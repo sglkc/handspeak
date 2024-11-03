@@ -1,0 +1,12 @@
+.container {
+  position: relative;
+}
+
+.container > * {
+  scale: -1 1;
+}
+
+canvas {
+  position: absolute;
+  inset: 0;
+}
